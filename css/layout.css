@@ -1008,3 +1008,19 @@ footer .social-links li:first-child { margin-left: 0; }
 {
     text-align:center;
 }
+
+.email_cls{
+	
+    left: 0;
+    line-height: 0;
+    margin: 0;
+    opacity: 0.45;
+    position: absolute;
+    top: 30px;
+	 color: #fff;
+    font-family: "librebaskerville-italic",serif;
+    font-size: 24px;
+    line-height: 48px;
+    padding-left: 132px;
+	padding-top: 71px;
+}
